@@ -8,4 +8,4 @@
 
 [remove](https://prnt.sc/1qvtawd)
 
-[My rep](https://github.com/alex-voytko/goit-nodejs-hw-01.git)
+[My GitHub rep](https://github.com/alex-voytko/goit-nodejs-hw-01.git)
